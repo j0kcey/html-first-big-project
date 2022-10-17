@@ -7,6 +7,10 @@ a {
   text-decoration: none;
 }
 
+body {
+  border: solid 10px #ffffff;
+}
+
 .header-main {
   display: flex;
   flex-direction: column;

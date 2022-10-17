@@ -9,7 +9,10 @@ $josefin-font:'Josefin Sans', sans-serif;
 a{
     text-decoration: none;
 }
-
+ 
+body{
+    border: solid 10px #ffffff;
+}
 
 .header-main{
     display: flex;
